@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Etalase Talisya Skincare</string>
+
+    //Toner
+    <string name="TonerIngredient">Water
+\nGlycerine
+\nNiacinimade
+\nFruit Extract
+\nCitrus Peel Extract</string>
+    <string name="TonerDesc">Bersihkan wajah anda terlebih dahulu
+\nTuangkan toner pada kapas
+\nApply pada wajah anda secara merata
+\nTunggu hingga menyerap ke kulit
+\nGunakan setiap pagi dan malam</string>
+
+    //Serum
+    <string name="SerumIngredients">Serum
+\nSalicyclic Acid
+\nNeem Extract</string>
+    <string name="SerumDesc">Taruh serum pada wajah anda
+\nLalu ratakan dengan tangan anda
+\nPastikan tangan anda dalam keadaan bersih
+\nTunggu hingga menyerap ke kulit
+\nGunakan setiap pagi dan malam</string>
+
+    //Retinol
+    <string name="RetinolIngredients">Retinol
+\nResveratrol
+\nCeramide II</string>
+    <string name="RetinolDesc">Taruh retinol pada wajah anda
+\nLalu ratakan dengan tangan anda
+\nGunakan setiap 1 minggu 2 kali</string>
+
+    //Sunscreen
+    <string name="SunscreenIngredients">Vit E
+\nUVA  UVB
+\nBroad Spectrum</string>
+    <string name="SunscreenDesc">Taruh retinol pada wajah anda
+\nLalu ratakan dengan tangan anda
+\nGunakan setiap 1 minggu 2 kali</string>
+
+    //Body Lotion
+    <string name="BodylotionIngredients">Glycerine
+\nWater
+\nNiacinimide</string>
+    <string name="BodylotionDesc">Taruh serum pada wajah anda
+\nLalu ratakan dengan tangan anda
+\nPastikan tangan anda dalam keadaan bersih
+\nTunggu hingga menyerap ke kulit
+\nGunakan setiap pagi dan malam</string>
+
+    //Lipbalm
+    <string name="LipbalmIngredients">Glycerine
+\nWater
+\nNiacinimide</string>
+    <string name="LipbalmDesc">Taruh serum pada wajah anda
+\nLalu ratakan dengan tangan anda
+\nPastikan tangan anda dalam keadaan bersih
+\nTunggu hingga menyerap ke kulit
+\nGunakan setiap pagi dan malam</string>
+
+    //Facewash
+    <string name="FacewashIngredients">Glycerine
+\nWater
+\nNiacinimide</string>
+    <string name="FacewashDesc">Taruh serum pada wajah anda
+\nLalu ratakan dengan tangan anda
+\nPastikan tangan anda dalam keadaan bersih
+\nTunggu hingga menyerap ke kulit
+\nGunakan setiap pagi dan malam</string>
+</resources>
